@@ -1,4 +1,7 @@
-# JV-Launcher
+<p align="center">
+	<img src="https://omax.ps.fhgdps.com/jv/jv_launcher.png" />
+</p>
+
 
 📶 This is an improved and optimized version of pojavlauncher
 
