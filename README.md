@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://jvlauncher.pages.dev/></a>
-		<img src="https://jvlauncher.pages.dev/text.png" />
+		<img src="https://raw.githubusercontent.com/Omax64MXG4ming/JV-Launcher/refs/heads/main/jv_launcher.png"></img>
 </p>
 
 
