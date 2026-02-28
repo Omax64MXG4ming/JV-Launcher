@@ -7,7 +7,7 @@
 📶 This is an improved and optimized version of pojavlauncher
 
 Requires 4GB of RAM
-android 5.0 and Higher compatible with  Android +15
+android 10 and Higher compatible with  Android +15
 
 [Discord](https://discord.gg/vZm58EYbuK) 
 
