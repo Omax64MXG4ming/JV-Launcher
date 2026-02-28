@@ -2,7 +2,7 @@
 	<a href="https://jvlauncher.pages.dev/">WEBSITE</a>
 </p>
 
-<img src="https://jvlauncher.pages.dev/text.png" alt="Logo JVLauncher" class="logo">
+<img src="https://raw.githubusercontent.com/Omax64MXG4ming/JV-Launcher/refs/heads/main/jv_launcher.png" alt="Logo JVLauncher" class="logo">
 
 📶 This is an improved and optimized version of pojavlauncher
 
