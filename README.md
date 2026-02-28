@@ -1,12 +1,13 @@
 <p align="center">
-	<img src="https://omax.ps.fhgdps.com/jv/jv_launcher.png" />
+	<a href="https://jvlauncher.pages.dev/></a>
+		<img src="https://jvlauncher.pages.dev/text.png" />
 </p>
 
 
 📶 This is an improved and optimized version of pojavlauncher
 
 Requires 4GB of RAM
-android 5.0 and Higher
-[Discord](https://discord.com/invite/7S5bdyYYGg) 
+android 5.0 and Higher compatible with  Android +15
+[Discord](https://discord.gg/vZm58EYbuK) 
 
 [Optifine Versions](https://optifine.net/downloads)
