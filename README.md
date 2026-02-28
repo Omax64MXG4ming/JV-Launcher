@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://jvlauncher.pages.dev/>JVLAUNCHER</a>
+	<a href="https://jvlauncher.pages.dev/"><img src="text.png" alt="Logo JVLauncher" class="logo">JVLAUNCHER</a>
 </p>
 
 
