@@ -6,6 +6,9 @@
 
 📶 This is an improved and optimized version of pojavlauncher
 
+From [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)
+
+
 Requires 4GB of RAM
 android 10 and Higher compatible with  Android +15
 
